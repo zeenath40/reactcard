@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower&display=swap');
+.mainpage {
+    width: 100%; height: 100%; margin: auto; font-family: 'Indie Flower', cursive;
+}
+.mainpage h1 {
+    margin: 0; padding: 20px o; text-align: center ;
+}
+
+
+
+.avatarstyle img{
+    width: 200px; height: 200px;
+}
